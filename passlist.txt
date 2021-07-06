@@ -1,0 +1,12 @@
+12345
+54321
+hack
+web
+google
+password
+1234567890
+10
+01
+0987654321
+abc
+... Enter passlist!
